@@ -21,12 +21,12 @@ title                    : "Mostly Signal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Adam M. Partridge"
-description              : "Adam M. Partridge's Personal Website"
+description              : "Adam M. Partridge's Personal Website" #metadata for SEO
 url                      : "https://ampartridge.github.io" # the base hostname & protocol for your site e.g. "https://ampartridge.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ampartridge/ampartridge.github.io" # GitHub username/repo-name e.g. "ampartridge/ampartridge.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/profile_pic.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # "/assets//profile_pic.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam M. Partridge"
-  avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open & Decentralised Research and Communities at University of Sheffield and UK Reproducibility Network"
   location         : "Sheffield, UK"
   email            : "a[dot]partridge[at]sheffield[dot]ac[uk]
