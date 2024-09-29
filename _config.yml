@@ -143,7 +143,7 @@ footer:
   links:
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://x.com/dampartridge"
+      url: "https://x.com/dampartridge"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -321,3 +321,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
