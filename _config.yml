@@ -117,14 +117,14 @@ author:
   avatar           : "/assets/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open & Decentralised Research and Communities at University of Sheffield and UK Reproducibility Network"
   location         : "Sheffield, UK"
-  email            : "a[dot]partridge[at]sheffield[dot]ac[uk]"
+  email            : # duplicates after the link below
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:a.partridge@sheffield.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ampartridge.github.io"
+      # url: "https://ampartridge.github.io"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/dampartridge"
