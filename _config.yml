@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Adam M. Partridge"
   avatar           : "/assets/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Founding Program Manager for the Metascience Alliance"
+  bio              : ""
   location         : "Wales, UK"
   email            : # duplicates after the link below
   links:
